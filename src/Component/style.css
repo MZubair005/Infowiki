@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Volkhov:wght@400;700&display=swap');
+
+.container{
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+.container .search-box{
+    display: flex;
+    align-items: center;    
+    margin: 0 auto;
+    
+}
+
+.search-box .search {
+    background: #2569e5;
+    padding: 11px;
+    font-size: 34px;
+    cursor: pointer;
+    height: 20px;
+}
+
+
+
+.sub-heading {
+    margin-top: -10px;
+    font-family: 'Volkhov', serif;
+    font-size: 10px;
+}
+.heading {
+    margin-bottom:0px ;
+    font-family: 'Volkhov', serif;
+    font-size: 18px;
+}
+span.big-letter {
+    font-size: 30px;
+}
+
+.MuiOutlinedInput-root.MuiInputBase-root.MuiInputBase-colorPrimary.MuiInputBase-fullWidth.MuiInputBase-formControl.css-md26zr-MuiInputBase-root-MuiOutlinedInput-root {
+    border-radius: 5px 0px 0px 5px;
+    
+}
+input#fullWidth {
+    padding: 9.5px;
+}
+
+.text-field{
+    margin-bottom:10px;
+}
